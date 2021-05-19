@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.card-img{
+    min-height:50vh ;
+    max-height:92vh;
+}
+  
+
+#mission {
+    padding: 7% 15%;
+    background-color: rgb(124, 160, 182);
+    z-index: 1;
+    position: relative;
+  }
+
+  .heading{
+      padding: 10 px;
+      text-align: center;  
+  }
+
+  #contact {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #756d6d;
+  }
+  .feature-box p{
+      font-style: italic;
+      font-family: 'Dancing Script', cursive;
+  }
+  
+  .logo {
+    margin: 25px 25px;
+  }
+
+  
